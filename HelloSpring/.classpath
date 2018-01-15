@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/jstl.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/standard.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aspects-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
