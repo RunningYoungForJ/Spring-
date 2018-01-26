@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+   <bean id="helloWorld" class="com.young.inherit.HelloWorld" >
+       <property name="message1" value="Hello World!"/>
+       <property name="message2" value="Hello, Second World" />
+   </bean>
+
+	<bean id="helloIndia" class="com.young.inherit.HelloIndia" parent="helloWorld">
+		<property name="message1" value="Hello India"></property>
+		<property name="message3" value="Namaste Inida"></property>
+	</bean>
+	
+	<!-- >
+	Bean 定义模板
+		你可以创建一个 Bean 定义模板，不需要花太多功夫它就可以被其他子 bean 定义使用。在定义一个 Bean 定义模板时，你不应该指定类的属性，而应该指定带 true 值的抽象属性，如下所示：
+
+	<bean id="beanTeamplate" abstract="true">
+      <property name="message1" value="Hello World!"/>
+      <property name="message2" value="Hello Second World!"/>
+      <property name="message3" value="Namaste India!"/>
+   </bean>
+
+   <bean id="helloIndia" class="com.tutorialspoint.HelloIndia" parent="beanTeamplate">
+      <property name="message1" value="Hello India!"/>
+      <property name="message3" value="Namaste India!"/>
+   </bean>
+   父 bean 自身不能被实例化，因为它是不完整的，而且它也被明确地标记为抽象的。当一个定义是抽象的，它仅仅作为一个纯粹的模板 bean 定义来使用的，充当子定义的父定义使用。
+	 -->
+</beans>
