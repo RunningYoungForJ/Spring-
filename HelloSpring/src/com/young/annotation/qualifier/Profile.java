@@ -1,11 +1,14 @@
 package com.young.annotation.qualifier;
 
+import javax.annotation.Resource;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Profile {
-	@Autowired
-	@Qualifier(value = "student1")
+	/*@Autowired
+	@Qualifier(value = "student1")*/
+	@Resource(name="student1")
 	private Student student;
 
 	public Profile() {
