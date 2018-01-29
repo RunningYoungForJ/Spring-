@@ -5,21 +5,22 @@
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/jstl.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/standard.jar"/>
-	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE.jar" sourcepath="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aspects-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-beans-4.3.9.RELEASE.jar" sourcepath="/Users/yangkun/Tools/springmvc-required/spring-beans-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-context-4.3.9.RELEASE.jar" sourcepath="/Users/yangkun/Tools/springmvc-required/spring-context-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-core-4.3.9.RELEASE.jar" sourcepath="/Users/yangkun/Tools/springmvc-required/spring-core-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-expression-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-web-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-webmvc-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aspects-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-beans-4.3.9.RELEASE-sources.jar" sourcepath="/Users/yangkun/Tools/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-context-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-core-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-expression-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-web-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-webmvc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/org.aspectj.matcher.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
