@@ -17,10 +17,10 @@
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-expression-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-web-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-webmvc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjrt.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjtools.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/aspectjweaver.jar"/>
 	<classpathentry kind="lib" path="/Users/yangkun/Tools/aspectj-1.8.13/lib/org.aspectj.matcher.jar"/>
-	<classpathentry kind="lib" path="/Users/yangkun/Tools/springmvc-required/spring-aop-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
